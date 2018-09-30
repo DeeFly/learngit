@@ -1,0 +1,25 @@
+.idea/*
+target
+build
+db
+*.iml
+bin
+.DS_Store
+/logs
+/*/logs
+/logback
+<<<<<<< HEAD
+
+# ºöÂÔÈÕÖ¾Ä¿Â¼
+logback
+logs
+# ºöÂÔeclipseÅäÖÃ¡¢
+.project
+.classpath
+.settings/*
+*/.project
+*/.classpath
+*/.settings/*
+/cloudteach-service/logback/service/*.log
+*/.idea/*
+
